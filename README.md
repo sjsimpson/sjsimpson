@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working on several projects, but always open to more!
+
 <!--
 **sjsimpson/sjsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
